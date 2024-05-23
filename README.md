@@ -1,6 +1,6 @@
-#The Ultimate Travel Companion Platform
-
-#Homepage:
+# The Ultimate Travel Companion Platform
+Wanderlust: Your Adventure Awaits
+# Homepage:
 
 User registration and login via email and password.
 Personalized user profiles with travel history, favorite destinations, and wish lists.
@@ -9,7 +9,7 @@ Engaging hero section with high-quality travel images and a compelling tagline.
 Quick search bar for destinations, experiences, and travel tips.
 Featured destinations and travel stories to inspire users.
 
-#Technologies used:
+# Technologies used:
 
 CSS
 HTML
@@ -18,14 +18,14 @@ MongoDB
 Nodejs
 Expressjs
 
-#Framework Used:
+# Framework Used:
 
 MVC:
 Model
 View
 Controller
 
-#About:
+# About:
 
 Interactive map showcasing popular travel destinations worldwide.
 Detailed destination pages with information on attractions, accommodations, restaurants, and local tips.
